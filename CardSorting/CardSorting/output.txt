@@ -1,0 +1,322 @@
+Three Decks have been created, d1, d2, and d3
+d1 should be sorted: 
+Ace    of Clubs 	Ace    of Diamonds	Ace    of Hearts	Ace    of Spades
+Two    of Clubs 	Two    of Diamonds	Two    of Hearts	Two    of Spades
+Three  of Clubs 	Three  of Diamonds	Three  of Hearts	Three  of Spades
+Four   of Clubs 	Four   of Diamonds	Four   of Hearts	Four   of Spades
+Five   of Clubs 	Five   of Diamonds	Five   of Hearts	Five   of Spades
+Six    of Clubs 	Six    of Diamonds	Six    of Hearts	Six    of Spades
+Seven  of Clubs 	Seven  of Diamonds	Seven  of Hearts	Seven  of Spades
+Eight  of Clubs 	Eight  of Diamonds	Eight  of Hearts	Eight  of Spades
+Nine   of Clubs 	Nine   of Diamonds	Nine   of Hearts	Nine   of Spades
+Ten    of Clubs 	Ten    of Diamonds	Ten    of Hearts	Ten    of Spades
+Jack   of Clubs 	Jack   of Diamonds	Jack   of Hearts	Jack   of Spades
+Queen  of Clubs 	Queen  of Diamonds	Queen  of Hearts	Queen  of Spades
+King   of Clubs 	King   of Diamonds	King   of Hearts	King   of Spades
+
+d2 should be random: 
+Ace    of Clubs 	Two    of Diamonds	Queen  of Hearts	Three  of Hearts
+Three  of Spades	Seven  of Clubs 	Eight  of Spades	Seven  of Hearts
+Two    of Spades	Ten    of Spades	Jack   of Diamonds	Four   of Diamonds
+Three  of Clubs 	Nine   of Diamonds	Nine   of Spades	Ten    of Hearts
+Five   of Clubs 	Ace    of Spades	Queen  of Spades	Six    of Hearts
+Two    of Clubs 	Nine   of Hearts	Two    of Hearts	Four   of Hearts
+Ace    of Hearts	Seven  of Diamonds	Six    of Clubs 	Four   of Spades
+Nine   of Clubs 	Ace    of Diamonds	Jack   of Spades	Six    of Spades
+Queen  of Diamonds	Five   of Diamonds	King   of Clubs 	Six    of Diamonds
+Ten    of Clubs 	Five   of Spades	Eight  of Hearts	Jack   of Clubs 
+Eight  of Diamonds	Eight  of Clubs 	Jack   of Hearts	Queen  of Clubs 
+Seven  of Spades	Three  of Diamonds	Four   of Clubs 	King   of Diamonds
+Five   of Hearts	King   of Hearts	Ten    of Diamonds	King   of Spades
+
+d3 has been sorted using Arrays.sort
+Ace    of Clubs 	Ace    of Diamonds	Ace    of Hearts	Ace    of Spades
+Two    of Clubs 	Two    of Diamonds	Two    of Hearts	Two    of Spades
+Three  of Clubs 	Three  of Diamonds	Three  of Hearts	Three  of Spades
+Four   of Clubs 	Four   of Diamonds	Four   of Hearts	Four   of Spades
+Five   of Clubs 	Five   of Diamonds	Five   of Hearts	Five   of Spades
+Six    of Clubs 	Six    of Diamonds	Six    of Hearts	Six    of Spades
+Seven  of Clubs 	Seven  of Diamonds	Seven  of Hearts	Seven  of Spades
+Eight  of Clubs 	Eight  of Diamonds	Eight  of Hearts	Eight  of Spades
+Nine   of Clubs 	Nine   of Diamonds	Nine   of Hearts	Nine   of Spades
+Ten    of Clubs 	Ten    of Diamonds	Ten    of Hearts	Ten    of Spades
+Jack   of Clubs 	Jack   of Diamonds	Jack   of Hearts	Jack   of Spades
+Queen  of Clubs 	Queen  of Diamonds	Queen  of Hearts	Queen  of Spades
+King   of Clubs 	King   of Diamonds	King   of Hearts	King   of Spades
+
+
+
+Now testing mergeSort on d2
+d2 should now be sorted: 
+Ace    of Clubs 	Ace    of Diamonds	Ace    of Hearts	Ace    of Spades
+Two    of Clubs 	Two    of Diamonds	Two    of Hearts	Two    of Spades
+Three  of Clubs 	Three  of Diamonds	Three  of Hearts	Three  of Spades
+Four   of Clubs 	Four   of Diamonds	Four   of Hearts	Four   of Spades
+Five   of Clubs 	Five   of Diamonds	Five   of Hearts	Five   of Spades
+Six    of Clubs 	Six    of Diamonds	Six    of Hearts	Six    of Spades
+Seven  of Clubs 	Seven  of Diamonds	Seven  of Hearts	Seven  of Spades
+Eight  of Clubs 	Eight  of Diamonds	Eight  of Hearts	Eight  of Spades
+Nine   of Clubs 	Nine   of Diamonds	Nine   of Hearts	Nine   of Spades
+Ten    of Clubs 	Ten    of Diamonds	Ten    of Hearts	Ten    of Spades
+Jack   of Clubs 	Jack   of Diamonds	Jack   of Hearts	Jack   of Spades
+Queen  of Clubs 	Queen  of Diamonds	Queen  of Hearts	Queen  of Spades
+King   of Clubs 	King   of Diamonds	King   of Hearts	King   of Spades
+
+Is d2 the exact same as the deck sorted with Arrays.sort? true
+
+
+Now testing selectionSort on d1
+d1 should now be random: 
+Ace    of Clubs 	Three  of Hearts	Seven  of Diamonds	Jack   of Clubs 
+Four   of Hearts	Five   of Clubs 	King   of Hearts	Ace    of Spades
+Two    of Diamonds	Nine   of Diamonds	Queen  of Clubs 	Ace    of Diamonds
+Queen  of Spades	Four   of Spades	Ten    of Spades	Five   of Hearts
+Nine   of Hearts	Ten    of Clubs 	Eight  of Clubs 	King   of Diamonds
+Four   of Clubs 	Six    of Diamonds	Two    of Spades	Three  of Spades
+Jack   of Hearts	Jack   of Diamonds	Eight  of Hearts	Six    of Spades
+Queen  of Diamonds	Nine   of Spades	Jack   of Spades	Two    of Clubs 
+Queen  of Hearts	King   of Clubs 	Four   of Diamonds	Eight  of Spades
+Five   of Diamonds	Six    of Hearts	Eight  of Diamonds	Nine   of Clubs 
+Seven  of Clubs 	Seven  of Hearts	Ten    of Diamonds	Three  of Diamonds
+Ace    of Hearts	Seven  of Spades	Two    of Hearts	Three  of Clubs 
+Ten    of Hearts	Five   of Spades	Six    of Clubs 	King   of Spades
+
+d1 should now be sorted: 
+Ace    of Clubs 	Ace    of Diamonds	Ace    of Hearts	Ace    of Spades
+Two    of Clubs 	Two    of Diamonds	Two    of Hearts	Two    of Spades
+Three  of Clubs 	Three  of Diamonds	Three  of Hearts	Three  of Spades
+Four   of Clubs 	Four   of Diamonds	Four   of Hearts	Four   of Spades
+Five   of Clubs 	Five   of Diamonds	Five   of Hearts	Five   of Spades
+Six    of Clubs 	Six    of Diamonds	Six    of Hearts	Six    of Spades
+Seven  of Clubs 	Seven  of Diamonds	Seven  of Hearts	Seven  of Spades
+Eight  of Clubs 	Eight  of Diamonds	Eight  of Hearts	Eight  of Spades
+Nine   of Clubs 	Nine   of Diamonds	Nine   of Hearts	Nine   of Spades
+Ten    of Clubs 	Ten    of Diamonds	Ten    of Hearts	Ten    of Spades
+Jack   of Clubs 	Jack   of Diamonds	Jack   of Hearts	Jack   of Spades
+Queen  of Clubs 	Queen  of Diamonds	Queen  of Hearts	Queen  of Spades
+King   of Clubs 	King   of Diamonds	King   of Hearts	King   of Spades
+
+Is d1 the exact same as the deck sorted with Arrays.sort? true
+
+
+Now testing pick on d1
+Jack   of Clubs 
+Prints the remaining Cards in d1
+Ace    of Clubs 
+Two    of Clubs 
+Three  of Clubs 
+Four   of Clubs 
+Five   of Clubs 
+Six    of Clubs 
+Seven  of Clubs 
+Eight  of Clubs 
+Nine   of Clubs 
+Ten    of Clubs 
+Queen  of Clubs 
+King   of Clubs 
+Ace    of Diamonds
+Two    of Diamonds
+Three  of Diamonds
+Four   of Diamonds
+Five   of Diamonds
+Six    of Diamonds
+Seven  of Diamonds
+Eight  of Diamonds
+Nine   of Diamonds
+Ten    of Diamonds
+Jack   of Diamonds
+Queen  of Diamonds
+King   of Diamonds
+Ace    of Hearts
+Two    of Hearts
+Three  of Hearts
+Four   of Hearts
+Five   of Hearts
+Six    of Hearts
+Seven  of Hearts
+Eight  of Hearts
+Nine   of Hearts
+Ten    of Hearts
+Jack   of Hearts
+Queen  of Hearts
+King   of Hearts
+Ace    of Spades
+Two    of Spades
+Three  of Spades
+Four   of Spades
+Five   of Spades
+Six    of Spades
+Seven  of Spades
+Eight  of Spades
+Nine   of Spades
+Ten    of Spades
+Jack   of Spades
+Queen  of Spades
+
+Three  of Clubs 
+King   of Diamonds
+Ten    of Spades
+Five   of Diamonds
+Ace    of Diamonds
+Eight  of Hearts
+Five   of Spades
+Six    of Hearts
+Ten    of Diamonds
+Two    of Clubs 
+Eight  of Spades
+Queen  of Spades
+Four   of Hearts
+Four   of Diamonds
+Two    of Spades
+Jack   of Hearts
+Ace    of Spades
+King   of Clubs 
+Nine   of Spades
+Six    of Spades
+Ace    of Clubs 
+Nine   of Hearts
+Four   of Spades
+Seven  of Diamonds
+Three  of Spades
+Ten    of Hearts
+Nine   of Clubs 
+Jack   of Spades
+Two    of Diamonds
+Seven  of Spades
+Ten    of Clubs 
+Seven  of Hearts
+Ace    of Hearts
+Eight  of Clubs 
+Nine   of Diamonds
+Five   of Clubs 
+Seven  of Clubs 
+Queen  of Hearts
+Queen  of Diamonds
+Three  of Hearts
+Six    of Diamonds
+Eight  of Diamonds
+Queen  of Clubs 
+Five   of Hearts
+Two    of Hearts
+Six    of Clubs 
+Three  of Diamonds
+King   of Hearts
+Jack   of Diamonds
+Four   of Clubs 
+Prints the remaining Cards in d1
+
+
+
+Now testing deal on d1
+Resetting d1 and shuffling...
+Now dealing two hands of 25 cards each
+King   of Spades
+Ten    of Spades
+Queen  of Hearts
+Seven  of Spades
+Jack   of Diamonds
+King   of Diamonds
+Ten    of Diamonds
+Jack   of Clubs 
+Queen  of Spades
+Seven  of Clubs 
+Ten    of Clubs 
+Seven  of Hearts
+Two    of Clubs 
+Three  of Diamonds
+Four   of Diamonds
+Ten    of Hearts
+Eight  of Hearts
+Eight  of Clubs 
+Three  of Spades
+Nine   of Diamonds
+Eight  of Spades
+Five   of Hearts
+Ace    of Hearts
+Six    of Hearts
+
+Four   of Spades
+Three  of Clubs 
+Five   of Clubs 
+Nine   of Hearts
+Two    of Diamonds
+Eight  of Diamonds
+Two    of Hearts
+Seven  of Diamonds
+Six    of Spades
+Four   of Hearts
+King   of Hearts
+Queen  of Clubs 
+Three  of Hearts
+King   of Clubs 
+Six    of Diamonds
+Ace    of Clubs 
+Five   of Spades
+Nine   of Clubs 
+Nine   of Spades
+Six    of Clubs 
+Ace    of Diamonds
+Ace    of Spades
+Two    of Spades
+Four   of Clubs 
+
+Here are the remaining cards in d1 
+Jack   of Spades
+
+Here is the first hand sorted using mergeSort
+Two    of Clubs 
+Seven  of Clubs 
+Eight  of Clubs 
+Ten    of Clubs 
+Jack   of Clubs 
+Three  of Diamonds
+Four   of Diamonds
+Nine   of Diamonds
+Ten    of Diamonds
+Jack   of Diamonds
+King   of Diamonds
+Ace    of Hearts
+Five   of Hearts
+Six    of Hearts
+Seven  of Hearts
+Eight  of Hearts
+Ten    of Hearts
+Jack   of Hearts
+Queen  of Hearts
+Three  of Spades
+Seven  of Spades
+Eight  of Spades
+Ten    of Spades
+Queen  of Spades
+
+
+Here is the second hand sorted using selectionSort
+Ace    of Clubs 
+Three  of Clubs 
+Four   of Clubs 
+Five   of Clubs 
+Six    of Clubs 
+Nine   of Clubs 
+Queen  of Clubs 
+King   of Clubs 
+Ace    of Diamonds
+Two    of Diamonds
+Six    of Diamonds
+Seven  of Diamonds
+Eight  of Diamonds
+Queen  of Diamonds
+Two    of Hearts
+Three  of Hearts
+Four   of Hearts
+Nine   of Hearts
+King   of Hearts
+Ace    of Spades
+Two    of Spades
+Four   of Spades
+Five   of Spades
+Six    of Spades
+
+Resetting d1
+Now testing .equals
+Does d1 equal d2? true
+Do the two hands of 25 cards each equal each other? false

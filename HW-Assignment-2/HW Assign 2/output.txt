@@ -1,0 +1,103 @@
+ Two  of  Clubs 
+true
+26
+Deck 1: 
+ Two  of  Clubs 	 Two  of Diamonds	 Two  of Hearts 	 Two  of Spades 	
+Three of  Clubs 	Three of Diamonds	Three of Hearts 	Three of Spades 	
+Four  of  Clubs 	Four  of Diamonds	Four  of Hearts 	Four  of Spades 	
+Five  of  Clubs 	Five  of Diamonds	Five  of Hearts 	Five  of Spades 	
+ Six  of  Clubs 	 Six  of Diamonds	 Six  of Hearts 	 Six  of Spades 	
+Seven of  Clubs 	Seven of Diamonds	Seven of Hearts 	Seven of Spades 	
+Eight of  Clubs 	Eight of Diamonds	Eight of Hearts 	Eight of Spades 	
+Nine  of  Clubs 	Nine  of Diamonds	Nine  of Hearts 	Nine  of Spades 	
+ Ten  of  Clubs 	 Ten  of Diamonds	 Ten  of Hearts 	 Ten  of Spades 	
+Jack  of  Clubs 	Jack  of Diamonds	Jack  of Hearts 	Jack  of Spades 	
+Queen  of  Clubs 	Queen  of Diamonds	Queen  of Hearts 	Queen  of Spades 	
+King  of  Clubs 	King  of Diamonds	King  of Hearts 	King  of Spades 	
+ Ace  of  Clubs 	 Ace  of Diamonds	 Ace  of Hearts 	 Ace  of Spades 	
+
+
+Nine  of  Clubs 	Three of  Clubs 	 Ace  of Spades 	 Ace  of Hearts 	
+Jack  of  Clubs 	Jack  of Spades 	Five  of  Clubs 	 Six  of Hearts 	
+ Two  of Spades 	Eight of Diamonds	 Ten  of Spades 	 Ten  of Diamonds	
+ Ace  of  Clubs 	Five  of Hearts 	Queen  of  Clubs 	Four  of Hearts 	
+ Ten  of  Clubs 	King  of Diamonds	 Six  of Spades 	Queen  of Hearts 	
+King  of Spades 	King  of  Clubs 	Nine  of Diamonds	Five  of Diamonds	
+ Two  of Hearts 	 Ten  of Hearts 	Four  of Spades 	Four  of  Clubs 	
+Seven of  Clubs 	Queen  of Spades 	Jack  of Diamonds	Five  of Spades 	
+ Ace  of Diamonds	Seven of Spades 	Nine  of Hearts 	Four  of Diamonds	
+Eight of Spades 	Three of Spades 	King  of Hearts 	 Two  of Diamonds	
+Nine  of Spades 	 Six  of Diamonds	Three of Hearts 	 Two  of  Clubs 	
+Eight of  Clubs 	Seven of Hearts 	Queen  of Diamonds	Three of Diamonds	
+Eight of Hearts 	Jack  of Hearts 	Seven of Diamonds	 Six  of  Clubs 	
+
+Deck 2: 
+Seven of  Clubs 	Five  of  Clubs 	Nine  of Diamonds	Five  of Hearts 	
+ Two  of Spades 	Queen  of Diamonds	Seven of Diamonds	 Ace  of Spades 	
+Three of Hearts 	King  of  Clubs 	 Ten  of Hearts 	 Ten  of  Clubs 	
+Seven of Spades 	Eight of Spades 	 Ten  of Spades 	Nine  of Hearts 	
+Four  of Diamonds	Jack  of  Clubs 	Four  of  Clubs 	Eight of Hearts 	
+ Ten  of Diamonds	Five  of Diamonds	Three of  Clubs 	Four  of Hearts 	
+ Ace  of Diamonds	 Ace  of  Clubs 	King  of Hearts 	 Two  of Diamonds	
+Seven of Hearts 	 Six  of Hearts 	Three of Spades 	Jack  of Spades 	
+ Ace  of Hearts 	King  of Spades 	Three of Diamonds	Queen  of  Clubs 	
+Four  of Spades 	 Two  of  Clubs 	King  of Diamonds	Jack  of Diamonds	
+Jack  of Hearts 	 Two  of Hearts 	 Six  of Diamonds	 Six  of Spades 	
+Nine  of  Clubs 	Nine  of Spades 	Eight of  Clubs 	 Six  of  Clubs 	
+Queen  of Hearts 	Queen  of Spades 	Eight of Diamonds	Five  of Spades 	
+
+
+
+Selection: 
+ Two  of  Clubs 	 Two  of Diamonds	 Two  of Hearts 	Three of Spades 	
+Three of  Clubs 	Three of Diamonds	Three of Hearts 	Four  of Spades 	
+Four  of  Clubs 	Four  of Diamonds	Four  of Hearts 	Five  of Spades 	
+Five  of  Clubs 	Five  of Diamonds	Five  of Hearts 	 Six  of Spades 	
+ Six  of  Clubs 	 Six  of Diamonds	 Six  of Hearts 	Seven of Spades 	
+Seven of  Clubs 	Seven of Diamonds	Seven of Hearts 	Eight of Spades 	
+Eight of  Clubs 	Eight of Diamonds	Eight of Hearts 	Nine  of Spades 	
+Nine  of  Clubs 	Nine  of Diamonds	Nine  of Hearts 	 Ten  of Spades 	
+ Ten  of  Clubs 	 Ten  of Diamonds	 Ten  of Hearts 	Jack  of Spades 	
+Jack  of  Clubs 	Jack  of Diamonds	Jack  of Hearts 	Queen  of Spades 	
+Queen  of  Clubs 	Queen  of Diamonds	Queen  of Hearts 	King  of Spades 	
+King  of  Clubs 	King  of Diamonds	 Ace  of Hearts 	 Ace  of Spades 	
+ Ace  of  Clubs 	 Ace  of Diamonds	 Two  of Spades 	King  of Hearts 	
+
+false
+Merge: 
+ Two  of  Clubs 	 Two  of Diamonds	 Two  of Hearts 	 Two  of Spades 	
+Three of  Clubs 	Three of Diamonds	Three of Hearts 	Three of Spades 	
+Four  of  Clubs 	Four  of Diamonds	Four  of Hearts 	Four  of Spades 	
+Five  of  Clubs 	Five  of Diamonds	Five  of Hearts 	Five  of Spades 	
+ Six  of  Clubs 	 Six  of Diamonds	 Six  of Hearts 	 Six  of Spades 	
+Seven of  Clubs 	Seven of Diamonds	Seven of Hearts 	Seven of Spades 	
+Eight of  Clubs 	Eight of Diamonds	Eight of Hearts 	Eight of Spades 	
+Nine  of  Clubs 	Nine  of Diamonds	Nine  of Hearts 	Nine  of Spades 	
+ Ten  of  Clubs 	 Ten  of Diamonds	 Ten  of Hearts 	 Ten  of Spades 	
+Jack  of  Clubs 	Jack  of Diamonds	Jack  of Hearts 	Jack  of Spades 	
+Queen  of  Clubs 	Queen  of Diamonds	Queen  of Hearts 	Queen  of Spades 	
+King  of  Clubs 	King  of Diamonds	King  of Hearts 	King  of Spades 	
+ Ace  of  Clubs 	 Ace  of Diamonds	 Ace  of Hearts 	 Ace  of Spades 	
+
+false
+ Ace  of Spades 
+King  of Spades 
+Queen  of Spades 
+King  of Hearts 
+Jack  of Spades 
+
+ Ten  of Spades 
+Nine  of Spades 
+Eight of Spades 
+Seven of Spades 
+ Six  of Spades 
+
+Five  of Spades 
+Four  of Spades 
+Three of Spades 
+ Two  of Spades 
+ Ace  of Hearts 
+
+Tried to deal too many cards!
+false
+0

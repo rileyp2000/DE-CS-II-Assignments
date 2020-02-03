@@ -1,0 +1,34 @@
+***Tests for IndexMaker***
+
+
+New IndexEntry for word 'hello' on lines 0,1,2, and 3: HELLO 0, 1, 2, 3
+New IndexEntry for word 'test' on line 4: TEST 4
+Copy of the previous IndexEntry: TEST 4
+Compare n1 and n2: -12
+
+
+**Tests for DocumentIndex***
+
+
+Index for fish.txt: 
+A 12, 14, 15
+ARE 16
+BLACK 6
+BLUE 4, 7
+CAR 14
+FISH 1, 2, 3, 4, 6, 7, 8, 9, 16
+HAS 11, 14
+LITTLE 12, 14
+LOT 15
+NEW 9
+OF 16
+OLD 8
+ONE 1, 11, 14
+RED 3
+SAY 15
+STAR 12
+THERE 16
+THIS 11, 14
+TWO 2
+WHAT 15
+

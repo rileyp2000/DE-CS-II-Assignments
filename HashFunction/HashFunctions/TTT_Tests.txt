@@ -1,0 +1,58 @@
+o x oxxxo
+o x oxxoo
+o x oxoxo
+o x ooxxo
+o xxx xoo
+o xxxox o
+o xxxoxo 
+o xxo   o
+o xxo xxo
+o xxo xoo
+o xxo oxo
+o xxox xo
+o xxox oo
+o xxoxx o
+o xxoxo o
+o xxoo xo
+o xxoox o
+ooo  o xx
+ooo  o xo
+ooo  o o 
+ooo  o ox
+ooo  o oo
+ooo  ox  
+ooo  ox x
+ooo  ox o
+ooo  oxx 
+ooo  oxxx
+ooo  oxxo
+ooo  oxo 
+ooo  oxox
+ooo  oxoo
+ooo  oo  
+ooo  oo x
+ooo  oo o
+ooo  oox 
+ooo  ooxx
+xo x oo o
+xo x oox 
+xo x ooxx
+xo x ooxo
+xo x ooo 
+xo x ooox
+xo x oooo
+xo xx    
+xo xx   x
+xo xx   o
+xo xx  x 
+xo xx  xx
+xo xx  xo
+xo xx  o 
+xo xx  ox
+xo xx  oo
+xo xx x  
+xo xx x x
+xo xx x o
+xo xx xx 
+xo xx xxx
+xo xx xxo

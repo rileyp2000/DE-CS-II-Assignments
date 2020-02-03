@@ -1,0 +1,36 @@
+Testing ProductionLine: 
+Input Queue before start: [8 XXXXXXXX, 4 XXXX, 3 XXX, 3 XXX, 7 XXXXXXX, 8 XXXXXXXX, 3 XXX, 5 XXXXX, 4 XXXX, 3 XXX, 9 XXXXXXXXX, 6 XXXXXX, 2 XX, 5 XXXXX, 8 XXXXXXXX, 6 XXXXXX, 2 XX, 1 X, 3 XXX, 8 XXXXXXXX]
+Output Queue before start: []
+Input Queue after Processing: []
+Output Queue after Processing: 
+8 XXXXXXXX
+
+4 XXXX
+
+3 XXX
+3 XXX
+7 XXXXXXX
+8 XXXXXXXX
+
+3 XXX
+5 XXXXX
+
+4 XXXX
+
+3 XXX
+9 XXXXXXXXX
+
+6 XXXXXX
+
+2 XX
+5 XXXXX
+8 XXXXXXXX
+
+6 XXXXXX
+
+2 XX
+
+1 X
+3 XXX
+8 XXXXXXXX
+
